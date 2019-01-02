@@ -1,0 +1,6 @@
+# hypopg extension
+comment = 'Hypothetical advisor for PostgreSQL'
+default_version = '1.1.2'
+module_pathname = '$libdir/hypopg'
+relocatable = true
+
